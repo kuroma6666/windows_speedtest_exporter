@@ -1,0 +1,2 @@
+# windows_speedtest_exporter
+WindowsExporterのためのSpeedtestExporter
